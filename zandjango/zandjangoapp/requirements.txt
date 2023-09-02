@@ -1,0 +1,6 @@
+zandjangoadmin requirements:
+django v.4:
+pip install django
+
+django jazzmin:
+pip install -U django-jazzmin
